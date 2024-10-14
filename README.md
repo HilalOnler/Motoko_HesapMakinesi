@@ -1,2 +1,2 @@
 # Motoko_HesapMakinesi
-Motoko Playground ortamında hesap makinesi uygulaması.
+[Motoko Playground](https://play.motoko.org/) ortamında hesap makinesi uygulaması.
