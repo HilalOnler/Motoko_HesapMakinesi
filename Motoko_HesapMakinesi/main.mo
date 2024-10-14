@@ -7,7 +7,8 @@ var hucre: Int=0;
 //fonksiyon   
 public func toplama(s: Int) : async Int {    
 hucre += s;    hucre    
-//(Debug.print(debug_show(hucre));)  };
+//(Debug.print(debug_show(hucre));)  
+};
 
 //cikarma  
 public func cikarma(s : Int) : async Int {    
